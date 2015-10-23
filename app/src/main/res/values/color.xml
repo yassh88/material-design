@@ -1,0 +1,6 @@
+<resources>
+    <color name="primaryColor">#FFEB3B
+    </color>
+    <color name="primaryColorDark">#FBC02D</color>
+    <color name="actionColor">#50515F</color>
+</resources>
